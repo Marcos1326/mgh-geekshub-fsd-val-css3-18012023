@@ -1,0 +1,46 @@
+body{
+    background-color:blanchedalmond;
+}
+
+div{
+    height:33vh;
+
+}
+
+#uno{
+    background-color: blue;
+    height: 15vh;
+}
+
+#dos{
+    background-color: brown;
+    height: 85vh;
+    width: 10vw;
+    float: left;
+}
+
+.dos-menu{
+    background-color: yellow;
+    height: 5vh;
+}
+
+#tres{
+    background-color: blueviolet;
+    height: 85vh;
+    width: 90vw;
+    float: left;
+}
+
+table{
+    border: solid black 1px;
+    border-collapse: collapse;
+
+}
+
+th{
+    background-color: white;
+}
+
+td{
+    border: solid black 1px;
+}
